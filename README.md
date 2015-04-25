@@ -1,5 +1,5 @@
 # Mina EC2
-Helper library to deploy to several EC2 instances using Mina
+Helper library to deploy to several EC2 instances using [Mina](https://github.com/mina-deploy/mina/)
 
 ## Installing
 
