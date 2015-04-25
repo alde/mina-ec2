@@ -52,3 +52,7 @@ Split out the `rails:db_migrate` invocation, since we don't want to run it from 
       invoke :'rails:db_migrate'
     end
 
+## Usage
+Invoke with
+
+    mina ec2:deploy
